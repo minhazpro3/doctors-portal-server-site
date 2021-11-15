@@ -132,7 +132,7 @@ async function run (){
 }
 run().catch(console.dir);
 
-// some
+// some thik
 app.get('/', (req, res) => {
   res.send('Hello Doctors portal')
 })
